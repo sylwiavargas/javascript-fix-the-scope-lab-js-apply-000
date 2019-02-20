@@ -25,4 +25,4 @@ var funkyFunction = function() {
 var theFunk = funkyFunction()();
 
 //I'm using this resource: http://adripofjavascript.com/blog/drips/variable-and-function-hoisting.html
-//and this one: 
+//and this one: https://www.w3schools.com/js/js_functions.asp
