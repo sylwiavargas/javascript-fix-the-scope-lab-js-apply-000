@@ -2,12 +2,7 @@ var animal = 'dog'
 
 function myAnimal() {
   return animal
-  switch(animal) {
-  case "dog":
-    "cat";
-    break;
   }
-}
 
 function yourAnimal() {
   // How can we make sure that this function
